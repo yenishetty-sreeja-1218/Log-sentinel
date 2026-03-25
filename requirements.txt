@@ -1,5 +1,5 @@
 altair==4.2.2
-dask[complete]
+dask
 pandas
 numpy
 pyarrow
