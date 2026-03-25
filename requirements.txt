@@ -1,8 +1,9 @@
+altair==4.2.2
 dask[complete]
 pandas
 numpy
 pyarrow
-streamlit
+streamlit==1.32.0
 scikit-learn
 requests
 python-dotenv
