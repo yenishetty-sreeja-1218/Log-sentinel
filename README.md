@@ -5,27 +5,7 @@
 ## What This Project Does
 LogSentinel is a system that collects logs from applications and automatically finds problems. Logs are structured entries that apps write when something happens. This milestone lays the foundation by defining what logs look like, what problems to detect, how the system is designed, and setting up the tools needed to build it.
 
----
-
-## Folder Structure
-
-```
-repo-logsentinel
-├── schemas/
-│   ├── log_schema.yaml        
-│   └── anomaly_schema.yaml    
-├── diagrams/
-│   ├── system_architecture.png
-│   └── data_flow.png           
-├── docs/
-│   └── architecture.md       
-├── environment/
-│   ├── requirements.txt        
-│   ├── setup.sh                          
-└── README.md                   
-```
-
----
+--- 
 
 ## Summary
 
@@ -66,23 +46,6 @@ The system is designed to simulate a real-world SIEM (Security Information and E
 - Machine Learning detection (Isolation Forest)
 - Email alerting system
 - Streamlit dashboard visualization
-
----
-
-## Folder Structure
-milestone1/
-├── logs/
-│ └── app_logs.csv
-├── tests/
-│ ├── pipeline.py
-│ └── test_environment.py
-├── alert.py
-├── detection.py
-├── dashboard.py
-├── requirements.txt
-├── .env (not included in repo)
-└── README.md
-
 
 ---
 
