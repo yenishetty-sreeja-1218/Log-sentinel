@@ -1,0 +1,8 @@
+dask[complete]
+pandas
+numpy
+pyarrow
+streamlit
+scikit-learn
+requests
+python-dotenv
