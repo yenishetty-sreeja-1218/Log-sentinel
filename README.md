@@ -21,13 +21,7 @@ repo-logsentinel
 │   └── architecture.md       
 ├── environment/
 │   ├── requirements.txt        
-│   ├── setup.sh                       
-├── tests/
-│   └── test_environment.py    
-├── screenshots/
-│   ├── dask_working.png      
-│   ├── ray_working.png         
-│   └── tests_passing.png      
+│   ├── setup.sh                          
 └── README.md                   
 ```
 
