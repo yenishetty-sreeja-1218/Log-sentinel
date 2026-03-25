@@ -1,0 +1,55 @@
+[2026-03-19 00:29:08] [HIGH] error_spike → 6 errors detected
+[2026-03-19 00:29:08] [MEDIUM] high_latency → 2412.0 ms latency
+[2026-03-19 00:29:40] [HIGH] error_spike → 6 errors detected
+[2026-03-19 00:29:40] [MEDIUM] high_latency → 2412.0 ms latency
+[2026-03-19 00:59:31] [HIGH] error_spike → 6 errors detected
+[2026-03-19 00:59:36] [MEDIUM] high_latency → 2412.0 ms latency
+[2026-03-19 00:59:39] [HIGH] ml_anomaly → 1 anomalies detected by ML
+[2026-03-19 00:59:55] [HIGH] error_spike → 6 errors detected
+[2026-03-19 00:59:58] [MEDIUM] high_latency → 2412.0 ms latency
+[2026-03-19 01:00:01] [HIGH] ml_anomaly → 1 anomalies detected by ML
+[2026-03-21 23:22:37] [HIGH] error_spike → 6 errors detected
+[2026-03-21 23:22:40] [MEDIUM] high_latency → 2412.0 ms latency
+[2026-03-21 23:22:42] [HIGH] ml_anomaly → 1 anomalies detected by ML
+[2026-03-21 23:35:31] [HIGH] error_spike → 6 errors detected
+[2026-03-21 23:35:37] [MEDIUM] high_latency → 2412.0 ms latency
+[2026-03-21 23:35:42] [HIGH] ml_anomaly → 1 anomalies detected by ML
+[2026-03-24 13:25:50] [HIGH] error_spike → 6 errors detected
+[2026-03-24 13:25:55] [MEDIUM] high_latency → 2412.0 ms latency
+[2026-03-24 13:25:59] [HIGH] ml_anomaly → 1 anomalies detected by ML
+[2026-03-25 10:57:54] [HIGH] error_spike → 6 errors detected
+[2026-03-25 10:58:10] [MEDIUM] high_latency → 2412.0 ms latency
+[2026-03-25 10:58:16] [HIGH] ml_anomaly → 1 anomalies detected by ML
+[2026-03-25 11:54:30] [HIGH] error_spike → 6 errors detected
+[2026-03-25 11:54:33] [MEDIUM] high_latency → 2412.0 ms latency
+[2026-03-25 11:54:35] [HIGH] ml_anomaly → 1 anomalies detected by ML
+[2026-03-25 18:52:43] [HIGH] error_spike → 6 errors detected
+[2026-03-25 18:52:46] [MEDIUM] high_latency → 2412.0 ms latency
+[2026-03-25 18:52:49] [HIGH] ml_anomaly → 1 anomalies detected by ML
+[2026-03-25 18:56:30] [HIGH] error_spike → 6 errors detected
+[2026-03-25 18:56:32] [MEDIUM] high_latency → 2412.0 ms latency
+[2026-03-25 18:56:34] [HIGH] ml_anomaly → 1 anomalies detected by ML
+[2026-03-25 19:03:56] [HIGH] error_spike → 6 errors detected
+[2026-03-25 19:04:00] [MEDIUM] high_latency → 2412.0 ms latency
+[2026-03-25 19:04:02] [HIGH] ml_anomaly → 1 anomalies detected by ML
+[2026-03-25 19:04:49] [HIGH] error_spike → 6 errors detected
+[2026-03-25 19:04:51] [MEDIUM] high_latency → 2412.0 ms latency
+[2026-03-25 19:04:54] [HIGH] ml_anomaly → 1 anomalies detected by ML
+[2026-03-25 19:08:00] [HIGH] error_spike → 6 errors detected
+[2026-03-25 19:08:04] [MEDIUM] high_latency → 2412.0 ms latency
+[2026-03-25 19:08:07] [HIGH] ml_anomaly → 1 anomalies detected by ML
+[2026-03-25 19:08:55] [HIGH] error_spike → 6 errors detected
+[2026-03-25 19:08:58] [MEDIUM] high_latency → 2412.0 ms latency
+[2026-03-25 19:09:00] [HIGH] ml_anomaly → 1 anomalies detected by ML
+[2026-03-25 19:10:23] [HIGH] error_spike → 6 errors detected
+[2026-03-25 19:10:26] [MEDIUM] high_latency → 2412.0 ms latency
+[2026-03-25 19:10:30] [HIGH] ml_anomaly → 1 anomalies detected by ML
+[2026-03-25 19:12:37] [HIGH] error_spike → 6 errors detected
+[2026-03-25 19:12:40] [MEDIUM] high_latency → 2412.0 ms latency
+[2026-03-25 19:12:43] [HIGH] ml_anomaly → 1 anomalies detected by ML
+[2026-03-25 19:19:07] [HIGH] error_spike → 6 errors detected
+[2026-03-25 19:19:13] [MEDIUM] high_latency → 2412.0 ms latency
+[2026-03-25 19:19:18] [HIGH] ml_anomaly → 1 anomalies detected by ML
+[2026-03-25 19:19:55] [HIGH] error_spike → 6 errors detected
+[2026-03-25 19:20:00] [MEDIUM] high_latency → 2412.0 ms latency
+[2026-03-25 19:20:05] [HIGH] ml_anomaly → 1 anomalies detected by ML
