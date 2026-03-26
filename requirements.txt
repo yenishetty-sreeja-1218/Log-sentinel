@@ -6,3 +6,4 @@ requests
 python-dotenv
 pyarrow
 dask[complete]
+protobuf==4.25.3
