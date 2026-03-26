@@ -1,7 +1,7 @@
 import dask.dataframe as dd
 
 # Load logs
-df = dd.read_csv("logs/app_logs.csv")
+df = dd.read_csv("app_logs.csv")
 
 print("\n✔ Logs Loaded Successfully")
 print(df.head())
