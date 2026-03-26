@@ -32,7 +32,7 @@ from alert import send_alert
 from detection import detect_anomalies
 
 # Load logs
-ddf = dd.read_csv("logs/app_logs.csv")
+ddf = dd.read_csv("app_logs.csv")
 
 print("✔ Logs Loaded")
 
