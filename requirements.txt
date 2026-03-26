@@ -1,7 +1,5 @@
-dask
 pandas
 numpy
-pyarrow
 streamlit==1.32.0
 scikit-learn
 requests
