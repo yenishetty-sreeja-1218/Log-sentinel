@@ -10,7 +10,7 @@ st.title("LogSentinel - SOC Monitoring Dashboard")
 # Load Logs
 # -------------------------
 try:
-    df = pd.read_csv("logs/app_logs.csv")
+    df = pd.read_csv("app_logs.csv")
     st.subheader("Log Data")
     st.dataframe(df)
 except:
